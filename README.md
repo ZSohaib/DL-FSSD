@@ -1,0 +1,2 @@
+# DL-FSSD
+A an exam project, I've tried to perform a deeplearning model that classifies digit sounds spellings (0...9), the work was performed in Python3 Jupyter notebook, The data could be found at: https://github.com/Jakobovski/free-spoken-digit-dataset, whose I had added my recordings, I've tried to compare the influence of adding my voice as it comes from new dialect. The method consists of transforming these audio file to spectrograms and then doing the deep learning on the images that results from this spectrograms.
